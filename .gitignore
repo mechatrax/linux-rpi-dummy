@@ -1,0 +1,7 @@
+debian/.debhelper
+debian/debhelper-build-stamp
+debian/files
+debian/linux-rpi-dummy
+debian/linux-image-rpi-dummy
+debian/linux-headers-rpi-dummy
+debian/*.substvars
